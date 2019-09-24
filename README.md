@@ -4,7 +4,9 @@ The %gemsmap SAS macro quickly maps diagnosis and procedure codes using 2018 Gen
 
 ## %gemsmap GEMs-based macro
 Author: Alan Kinlaw
+
 Created: 04 Sep 2019
+
 Updated: 24 Sep 2019
 
 ### Goal
