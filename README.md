@@ -1,8 +1,7 @@
 # Easy_ICD9-to-10_GEMs_mapping
 
-The %gemsmap SAS macro quickly maps diagnosis and procedure codes using 2018 General Equivalence Mappings (GEMs)
+The <b>%gemsmap</b> SAS macro quickly maps diagnosis and procedure codes using 2018 General Equivalence Mappings (GEMs)
 
-## %gemsmap GEMs-based macro
 Author: Alan Kinlaw
 
 Created: 04 Sep 2019
@@ -30,9 +29,9 @@ Ready-to-go 2018 General Equivalance Mappings (GEMs) SAS datasets which the auth
 
 1. Identify filepath for projlib directory 
 2. Store input files in projlib directory
-3. Run macro code 
+3. Submit macro code 
 4. For either diagnosis (dx) or procedure (pr) codes of interest, follow instructive comments to progress through mapping and outputting ICD-10-CM/PCS codes
-5. !!! Review the output codes to verify proper inclusion for your project !!! 
+5. !!! Review the output codes to verify proper inclusion/exclusion of candidate codes for your project !!! 
 
 
  
