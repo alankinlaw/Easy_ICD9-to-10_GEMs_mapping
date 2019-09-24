@@ -2,8 +2,12 @@
 
 A SAS macro to quickly map diagnosis and procedure codes using 2018 General Equivalence Mappings (GEMs)
 
-GEMS-based macro (%gemsmap) 
 
+
+
+
+
+# GEMs-based macro (%gemsmap)
 
 
 Goal: to map ICD-9-CM to ICD-10-CM diagnosis codes and ICD-9-CM to ICD-10-PCS procedure codes 
