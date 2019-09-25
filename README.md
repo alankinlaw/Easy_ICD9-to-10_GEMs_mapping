@@ -12,7 +12,7 @@ Updated: 24 Sep 2019
 To map ICD-9-CM to ICD-10-CM diagnosis codes and ICD-9-CM to ICD-10-PCS procedure codes 
 
 ### Inputs
-Ready-to-go 2018 General Equivalance Mappings (GEMs) SAS datasets which the author has adapted from reference mappings provided in the public domain by the Centers for Medicare and Medicaid Services and the National Center for Health Statistics (NCHS/CDC) [details -- https://bit.ly/2lbh4YJ] [zipfile -- https://go.cms.gov/2lcbDZx (raw text files)].
+Ready-to-go 2018 General Equivalance Mappings (GEMs) SAS datasets which the author has adapted from reference mappings provided in the public domain by the Centers for Medicare and Medicaid Services (CMS) and the National Center for Health Statistics (NCHS/CDC) [details -- https://bit.ly/2lbh4YJ] [zipfile -- https://go.cms.gov/2lcbDZx (raw text files)].
 
 1. icd9to10dx.sas7bdat
 2. icd10to9dx.sas7bdat
